@@ -4,9 +4,9 @@
 Using data gathered by NASA, this project attempts to answer
 some questions about these natural disasters:
 - What causes Landslides?
-- Where do Landslides happen?
+- Where do Most Landslides happen?
 - How often do Landslides happen?
-- How deadly are Landslides?
+- How Dangerous are Landslides?
 
 ### Data Description
 The dataset contains entries for Landslide events across the world with news sources, 
